@@ -1,1 +1,3 @@
 DatabaseInitializer 2024-04-19 12:24:33,151 -  [<init>] -(INFO) Database connection initialized successfully. 
+Welcome 2024-04-19 12:26:33,252 -  [destroy] -(INFO) Database connection closed successfully. 
+DatabaseInitializer 2024-04-19 12:26:39,353 -  [<init>] -(INFO) Database connection initialized successfully. 
